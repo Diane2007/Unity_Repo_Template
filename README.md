@@ -1,2 +1,2 @@
-# Unity_Repo_Template
-A template for uploading unity projects to GitHub
+# Put your project description here!
+Tell me about your project. Plz.
